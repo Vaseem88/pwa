@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: 'pwa'
+  publicPath: '/pwa',
+  outputDir: "docs"
 }
